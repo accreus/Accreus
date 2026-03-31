@@ -31,100 +31,23 @@ Full-stack developer with an eye for design and deep interests in core computer 
 <br>
 <br>
 
-## ◼ Experience  
+## ◼ Experience
 
-### <p> Full Stack Developer & Graphic Designer </p>  
-
-<p>
-<b>Indian Society for Technical Education | Jan 2026 - Feb 2026</b>
-</p>
-
-<p>
-Developed the official website for the <a href="https://www.prakarsh.org">Prakarsh ’26</a> college fest using React, Tailwind CSS, GSAP, and Motion. Created and integrated custom 3D animated visual assets using Blender.
-</p>
+| Role | Organization | Duration | Description |
+|------|-------------|----------|-------------|
+| Full Stack Developer & Graphic Designer | Indian Society for Technical Education | Jan 2026 – Feb 2026 | Developed the official website for Prakarsh ’26 using React, Tailwind CSS, GSAP, and Motion. Created and integrated custom 3D animated visual assets using Blender. |
+| Full Stack Developer | CB Bytes, Vadodara | May 2024 – June 2024 | Developed a full-stack ecommerce application using React, Express.js, and MongoDB following RESTful API principles. |
 
 ---
-
-### <p> Full Stack Developer </p>  
-
-<p>
-<b>CB Bytes, Vadodara | May 2024 - June 2024</b>
-</p>
-
-<p>
-Developed a full-stack ecommerce application using React, Express.js, and MongoDB following RESTful API principles.
-</p>
-
----
-
-<br>
-<br>
 
 ## ◼ Projects
 
-### <p> Prakarsh 2026 Website </p>
-
-<p>
-Contributed to the official ISTE event website <a href="https://www.prakarsh.org">Prakarsh ’26</a>
-</p>
-
-<p>
-<b>Tech:</b> React, Tailwind CSS, GSAP, Motion, Supabase  
-</p>
-
-<p>
-<a href="https://www.github.com/accreus/astrojs-react-prakarsh">Github Repo</a> • 
-<a href="https://www.prakarsh.org">Live Demo</a>
-</p>
-
----
-
-### <p> Phobos - Metadata Removal Tool </p>
-
-<p>
-A privacy-focused tool that strips sensitive metadata from files, backs them up to cloud storage, and logs events.
-</p>
-
-<p>
-<b>Tech:</b> React, FastAPI, Firebase, exiftool, rclone  
-</p>
-
-<p>
-<a href="https://github.com/accreus/phobos-frontend">Github Repo</a> • 
-<a href="https:phobos.pico.qzz.io">Live Demo</a>
-</p>
-
----
-
-### <p> AI Calculator </p>
-
-<p>
-An AI-powered calculator inspired by Apple's Math Notes with handwriting recognition and LaTeX outputs.
-</p>
-
-<p>
-<b>Tech:</b> React, FastAPI, Gemini API  
-</p>
-
-<p>
-<a href="https://github.com/accreus/ai-calculator">Github Repo</a>
-</p>
-
----
-
-### <p> DeFinE - P2P Lending App </p>
-
-<p>
-A decentralized lending platform ensuring secure and transparent blockchain-based transactions.
-</p>
-
-<p>
-<b>Tech:</b> React, Express.js, Solidity, Web3.js  
-</p>
-
-<p>
-<a href="https://github.com/accreus/p2p-frontend">Github Repo</a>
-</p>
+| Project Name | Description | Tech Stack | Links |
+|-------------|------------|------------|-------|
+| Prakarsh 2026 Website | Contributed to the official ISTE event website | React, Tailwind CSS, GSAP, Motion, Supabase | [GitHub](https://www.github.com/accreus/astrojs-react-prakarsh) • [Live](https://www.prakarsh.org) |
+| Phobos - Metadata Removal Tool | Privacy-focused tool to strip metadata, backup files, and log events | React, FastAPI, Firebase, exiftool, rclone | [GitHub](https://github.com/accreus/phobos-frontend) • [Live](https://phobos.pico.qzz.io) |
+| AI Calculator | AI-powered calculator with handwriting recognition and LaTeX output | React, FastAPI, Gemini API | [GitHub](https://github.com/accreus/ai-calculator) |
+| DeFinE - P2P Lending App | Blockchain-based decentralized lending platform | React, Express.js, Solidity, Web3.js | [GitHub](https://github.com/accreus/p2p-frontend) |
 
 ---
 
